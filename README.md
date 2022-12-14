@@ -1,6 +1,6 @@
 ## KAFKA CLUSTER
 
-Since I did not find a lot of documentation on how to create something like this, I want to share this project with you. <br>
+The reason why I develop this, is because i did not find proper documentation on how to integrate this services for kafka. <br>
 
 > This project includes the following:
 * Zookeeper
