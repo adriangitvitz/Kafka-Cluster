@@ -12,9 +12,14 @@ Since I did not find a lot of documentation on how to create something like this
 * Grafana
 * JMX Prometheus Exporter (2)
 
+The brokers are using SASL_PLAINTEXT externally and PLAINTEXT locally
+
 > How to run
 ``` shell
 docker-compose up -d
 ```
 
 ### NOTE: Change the values in the .env file according to your needs
+
+References:
+* Metrics with Prometheus: https://github.com/streamthoughts/kafka-monitoring-stack-docker-compose
