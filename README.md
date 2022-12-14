@@ -1,6 +1,6 @@
 ## KAFKA CLUSTER
 
-Since I did not find a lot of documentation to create something like this, I want to share this project with you. <br>
+Since I did not find a lot of documentation on how to create something like this, I want to share this project with you. <br>
 
 > This project includes the following:
 * Zookeeper
